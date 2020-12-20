@@ -29,7 +29,8 @@
   "homepage": "https://github.com/MaxiMittel/cookie-popup-gdpr-react#readme",
   "peerDependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "cookie-popup-gdpr": "^1.3.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
